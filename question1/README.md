@@ -3,10 +3,11 @@
 Modify the keyword count program that we wrote in class to handle all of the keywords in C. For example, the keyword, int, was not being counted.
 
 Compile Steps:
-gcc test1.c 
+gcc -o q1 question1/q1.c
 
 Command(s) to run the program:
-./a.out < question1/test1.c
+./q1 < question1/test1.c
+./q1 < question1/test2.c
 
 Output:
 1 auto
