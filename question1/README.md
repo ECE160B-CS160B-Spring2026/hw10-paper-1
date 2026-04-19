@@ -10,7 +10,7 @@ Command(s) to run the program:
 ./q1 < question1/test2.c
 
 Output:
-1 auto
+    1 auto
    2 break
    1 case
    9 char
@@ -28,3 +28,15 @@ Output:
    7 void
    1 volatile
    4 while
+
+   1 break
+  14 char
+   4 else
+   3 for
+  10 if
+  12 int
+   7 return
+   1 sizeof
+  14 struct
+   8 void
+   2 while
