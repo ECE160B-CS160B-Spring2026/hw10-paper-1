@@ -9,5 +9,12 @@ Alternatively, you can also pass in the lengths of the arrays:
 Have your main function accept the following inputs: number of points in array1, array1 values, number of points in array2, array2 values. Your main should print out the intersection seprated by a space. (e.g. If the intersection was 2 and 5, you'd print out ```2 5```).
 
 Compile Steps:
+gcc -o q3 question3/q3.c
+./q3
 
 Output:
+INPUT: 
+3 1 2 5
+2 2 5
+Output:
+2 5
